@@ -50,7 +50,7 @@ messages:
 
 ## Installation
 
-1. Download the latest release of `RaidCooldown` from the [Releases](https://github.com/yourusername/RaidCooldown/releases) section.
+1. Download the latest release of `RaidCooldown` from the [Releases](https://github.com/NyhmsQuest/RaidCooldown/releases) section.
 2. Place the downloaded `.jar` file into the `plugins` folder of your Paper server.
 3. Start or restart your server to generate the configuration files.
 4. Adjust the settings in `config.yml` as needed.
