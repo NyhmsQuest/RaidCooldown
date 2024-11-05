@@ -1,0 +1,19 @@
+raidCooldownSeconds: 86400 # Default cooldown in seconds (24 hours)
+
+# Customizable messages
+messages:
+  onlyPlayersMessage: "<#FBA9A9>ᴏɴʟʏ ᴘʟᴀʏᴇʀꜱ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ."
+  raidCooldownMessage: "<#FBA9A9>ʏᴏᴜ ᴀʀᴇ ᴏɴ ᴄᴏᴏʟᴅᴏᴡɴ ꜰᴏʀ ꜱᴛᴀʀᴛɪɴɢ ᴀ ʀᴀɪᴅ. ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ <#A180D0>{time}<#FBA9A9>."
+  cooldownRemainingMessage: "<#BDB0D0>ʏᴏᴜ ᴍᴜꜱᴛ ᴡᴀɪᴛ <#A180D0>{time} <#BDB0D0>ʙᴇꜰᴏʀᴇ ꜱᴛᴀʀᴛɪɴɢ ᴀɴᴏᴛʜᴇʀ ʀᴀɪᴅ."
+  cooldownRemainingOtherMessage: "<#A180D0>{player} <#BDB0D0>ᴍᴜꜱᴛ ᴡᴀɪᴛ <#A180D0>{time} <#BDB0D0>ʙᴇꜰᴏʀᴇ ᴛʜᴇʏ ᴄᴀɴ ꜱᴛᴀʀᴛ ᴀɴᴏᴛʜᴇʀ ʀᴀɪᴅ."
+  raidAvailableMessage: "<#B2FBA9>ʏᴏᴜ ᴄᴀɴ ꜱᴛᴀʀᴛ ᴀ ʀᴀɪᴅ ɴᴏᴡ!"
+  raidAvailableOtherMessage: "<#B2FBA9>{player} ᴄᴀɴ ꜱᴛᴀʀᴛ ᴀ ʀᴀɪᴅ ɴᴏᴡ!"
+  playerNotFoundMessage: "<#A180D0>{player} <#FBA9A9>ɴᴏᴛ ꜰᴏᴜɴᴅ."
+  noPermissionMessage: "<#FBA9A9>ʏᴏᴜ ᴅᴏ ɴᴏᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ."
+  reloadMessage: "<#B2FBA9>ʀᴀɪᴅᴄᴏᴏʟᴅᴏᴡɴ ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ ʀᴇʟᴏᴀᴅᴇᴅ!"
+  usage: "<#FBA9A9>ᴜꜱᴀɢᴇ: /ʀᴀɪᴅᴄᴏᴏʟᴅᴏᴡɴ ᴏʀ /ʀᴀɪᴅᴄᴏᴏʟᴅᴏᴡɴ ᴄʜᴇᴄᴋ <ᴘʟᴀʏᴇʀ> ᴏʀ /ʀᴀɪᴅᴄᴏᴏʟᴅᴏᴡɴ ʀᴇꜱᴇᴛ <ᴘʟᴀʏᴇʀ>"
+  hour: "<#A180D0>ʜ "
+  minute: "<#A180D0>ᴍ "
+  second: "<#A180D0>ꜱ"
+  resetCooldownMessage: "<#B2FBA9>ʀᴀɪᴅ ᴄᴏᴏʟᴅᴏᴡɴ ꜰᴏʀ <#A180D0>{player} <#B2FBA9>ʜᴀꜱ ʙᴇᴇɴ ʀᴇꜱᴇᴛ."
+  cooldownResetNotification: "<#B2FBA9>ʏᴏᴜʀ ʀᴀɪᴅ ᴄᴏᴏʟᴅᴏᴡɴ ʜᴀꜱ ʙᴇᴇɴ ʀᴇꜱᴇᴛ."

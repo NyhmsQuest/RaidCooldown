@@ -1,0 +1,22 @@
+name: RaidCooldown
+version: '1.0'
+main: net.vanillymc.raidCooldown.RaidCooldown
+api-version: '1.21'
+author: Loralon
+
+commands:
+  raidcooldown:
+    description: Check your raid cooldown, check other players' cooldown, or reload the plugin configuration.
+    usage: /<command> [check <player>] | reload
+    permission-message: "&cYou do not have permission to use this command."
+
+permissions:
+  raidcooldown.check:
+    description: Allows checking other players' raid cooldown.
+    default: op
+  raidcooldown.reset:
+    description: Allows resetting another player's raid cooldown.
+    default: op
+  raidcooldown.reload:
+    description: Allows reloading the plugin configuration.
+    default: op
